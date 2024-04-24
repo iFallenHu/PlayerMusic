@@ -1,4 +1,4 @@
-# Projeto Player de Música
+#Projeto Player de Música
 
 ## Descrição
 Este é um projeto de um player de música desenvolvido no IntelliJ. O projeto consiste em uma superclasse `Audio` que representa arquivos de áudio genéricos, com classes `Podcast` e `Musica` que herdam dela. Além disso, há uma classe `MinhasPreferidas` para exemplificar o uso de polimorfismo.
