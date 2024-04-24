@@ -30,3 +30,9 @@ A classe `Audio` é a classe base para todos os tipos de áudio na aplicação. 
 
 ```bash
 javac Main.java
+
+## Contribuindo
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues para reportar bugs, sugerir melhorias ou enviar pull requests com novos recursos.
+
+## Licença
+Este projeto é distribuído sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
