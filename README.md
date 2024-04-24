@@ -27,12 +27,15 @@ A classe `Audio` é a classe base para todos os tipos de áudio na aplicação. 
 1. Clone o repositório do projeto.
 2. Certifique-se de ter o JDK (Java Development Kit) instalado em sua máquina.
 3. Compile o código Java utilizando o seguinte comando no terminal:
-
 ```bash
 javac Main.java
+````
 
 ## Contribuindo
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues para reportar bugs, sugerir melhorias ou enviar pull requests com novos recursos.
 
 ## Licença
 Este projeto é distribuído sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+
+
